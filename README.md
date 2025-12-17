@@ -29,6 +29,7 @@ Currently, the website has basic structure and design. Contributors are encourag
 - [Contact](#contact)
 ---
 
+
 ## 📁 Project Structure
 
 ```
